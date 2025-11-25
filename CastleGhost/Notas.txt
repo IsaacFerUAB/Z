@@ -6,7 +6,3 @@
  - Lista de grafos : map<string, vector<string>> grafo
     buscar video de esto.
 
-<<<<<<< HEAD
-Commit avance main
-=======
->>>>>>> Willow
