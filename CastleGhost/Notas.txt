@@ -1,0 +1,9 @@
+------------------------
+        NOTAS
+------------------------
+
+ - Nodos, grafos i vectores
+ - Lista de grafos : map<string, vector<string>> grafo
+    buscar video de esto.
+
+    Commit en Branch 2
