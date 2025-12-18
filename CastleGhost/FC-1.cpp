@@ -60,7 +60,6 @@ cout << "A veces sentirás mi aliento helado muy próximo… otras, solo un ecWo
 cout << "¿Te atreves a jugar y desvelar mi posición antes de que desaparezca para siempre?" << endl;
 }
 
-
 int GhostPosGen(){
 
 
